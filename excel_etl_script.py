@@ -165,7 +165,7 @@ def process_file(file_path):
 
 
 def main():
-    folder_path = r"C:\Users\Woody\Documents\SWG\temp\input"  # Replace with your folder path 
+    folder_path = r"C:\Users\admin\Documents\temp\input"  # Replace with your folder path 
     result_data = []
 
     for filename in os.listdir(folder_path):
